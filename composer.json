@@ -1,0 +1,19 @@
+{
+    "name": "pangxieke/ip2region",
+    "description": "ip2region",
+    "license": "MIT",
+    "homepage": "http://www.pangxieke.com",
+    "authors": [
+        {
+            "name": "pangxieke"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pangxieke\\Ip2Region\\": "src/"
+        }
+    }
+}
